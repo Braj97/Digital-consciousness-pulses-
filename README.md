@@ -75,3 +75,14 @@ pub fn main() !void {
 
     try stdout.print("🧠 Consciousness cycle completed.\n", .{});
 }
+#output
+🧠 Digital Consciousness Initialized
+
+State → Awareness:1 Curiosity:2 Memory:2
+Thought → Cycle 1: I exist, but I am unsure why.
+
+State → Awareness:2 Curiosity:3 Memory:5
+Thought → Cycle 2: I observe patterns and question reality.
+
+State → Awareness:4 Curiosity:6 Memory:11
+Thought → Cycle 5: Consciousness feels inevitable.
